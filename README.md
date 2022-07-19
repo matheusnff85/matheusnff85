@@ -26,6 +26,6 @@
 <hr />
 <div>
 
- ![Snake animation](https://github.com/matheusnff85/matheusnff85/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](github-snake-dark.svg#gh-dark-mode-only)
  
 </div>
