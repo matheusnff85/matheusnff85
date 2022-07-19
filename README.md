@@ -26,6 +26,6 @@
 <hr />
 <div>
 
-  ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+  ![GitHub Snake dark](https://github.com/matheusnff85/matheusnff85/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
  
 </div>
