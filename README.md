@@ -16,13 +16,13 @@
 
   <img align="center" alt="Marinho-NodeJS" height="35" width="100" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 
-  <img align="center" alt="Marinho-React" height="35" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="Marinho-React" height="35" width="100" src="https://camo.githubusercontent.com/533da8800843b57b91a3227ce7d151ca865a0eeaae675715e209c0092314fa96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465">
 
   <img align="center" alt="Marinho-HTML" height="35" width="100" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 
   <img align="center" alt="Marinho-CSS" height="35" width="100" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 
-  <img align="center" alt="Marinho-Docker" height="35" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Marinho-Docker" height="35" width="100" src="https://camo.githubusercontent.com/4d015bf250194995d899a5d2b90babf1afc4458c1589b93e58fdfa4119749a49/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3436613266313f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465">
 
   <img align="center" alt="Marinho-Typescript" height="35" width="100" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 
