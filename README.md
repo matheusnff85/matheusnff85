@@ -6,6 +6,7 @@
 - :mailbox: My LinkedIn: [LinkedIn](https://www.linkedin.com/in/matheus-marinhodsp/).
 
 <hr />
+
 <div style="display: inline_block" ><br>
   <h1> Languages </h1>
 
