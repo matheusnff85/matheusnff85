@@ -1,9 +1,54 @@
-<h1 align="center" > Hello World! I'm Matheus Marinho 🥷🏽 </h1>
+<h1 align="center" > Hello World! I'm Matheus Marinho </h1>
 
-- :telescope: Seeking an opportunity as a Full Stack Developer.
-- :raising_hand_man: 23 Years old.
-- :medal_sports: Full Stack Developer.
-- :mailbox: My LinkedIn: [LinkedIn](https://www.linkedin.com/in/matheus-marinhodsp/).
+```python
+class Desenvolvedor:
+    def __init__(self, nome, cidade, idade, hobbies):
+        self.nome = nome
+        self.cidade = cidade
+        self.idade = idade
+        self.hobbies = hobbies
+
+    def __str__(self):
+        return (
+          f"Nome: {self.nome}\n"
+          f"Mora em {self.cidade}\n"
+          f"Tem {self.idade} anos\n"
+          f"Hobbies: {', '.join(self.hobbies)}.\n"
+        )
+
+
+eu = Desenvolvedor(
+    "Matheus",
+    "Nova Friburgo - RJ",
+    23,
+    ["Jogos", "Música", "Animes e séries", "Bares", "Futebol"]
+)
+
+print(eu)
+```
+
+-----
+
+<div>
+<table align="center">
+<tr>
+<td align="center" colspan="4"></td>
+</tr> 
+<tr>
+<td><a href="https://github.com/matheusnff85" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/github.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="mailto:matheus.marinhodsp@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/6711/6711567.png" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://wa.me/5522992478665" target="_blank"><img src="https://imagepng.org/wp-content/uploads/2017/08/whatsapp-icone-2.png" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://www.linkedin.com/in/matheus-marinhodsp/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="50px" height="50px"/></a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="4"></td>
+</tr> 
+</table>
+</div>
 
 <hr />
 
