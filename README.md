@@ -111,13 +111,13 @@ print(eu)
 
 ----
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/matheusnff85">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusnff85&show_icons=true&theme=vision-friendly-dark&include_all_commits=false&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnff85&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 
-----
+---- -->
 
 <div align="center">
 <img align="justify" alt="Spotify list" height="380px" src="https://spotify-recently-played-readme.vercel.app/api?user=jfownqzt6o2rsxyn3u1crp0fv&count=6"/>
