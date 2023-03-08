@@ -109,7 +109,7 @@ print(eu)
 <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matheusnff85&theme=github_dark"/>
 </div>
 
------
+----
 
 <div align="center">
   <a href="https://github.com/matheusnff85">
@@ -117,7 +117,15 @@ print(eu)
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnff85&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 
-<hr />
+----
+
+<div align="center">
+<img align="justify" alt="Spotify list" height="450px" src="https://spotify-recently-played-readme.vercel.app/api?user=jfownqzt6o2rsxyn3u1crp0fv&count=8"/>
+<img align="justify" alt="Spotify" height="450px" src="https://spotify-github-profile.vercel.app/api/view?uid=jfownqzt6o2rsxyn3u1crp0fv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile"/>
+</div>
+
+----
+
 <div align="center">
 
   ![GitHub Snake dark](https://github.com/matheusnff85/matheusnff85/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
