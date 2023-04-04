@@ -1,30 +1,30 @@
 <h1 align="center" > Hello World! I'm Matheus Marinho </h1>
 
 ```python
-class Desenvolvedor:
-    def __init__(self, nome, cidade, idade, hobbies):
-        self.nome = nome
-        self.cidade = cidade
-        self.idade = idade
+class Developer:
+    def __init__(self, name, city, age, hobbies):
+        self.name = name
+        self.city = city
+        self.age = age
         self.hobbies = hobbies
 
     def __str__(self):
         return (
-          f"Nome: {self.nome}\n"
-          f"Mora em {self.cidade}\n"
-          f"Tem {self.idade} anos\n"
+          f"My Name is: {self.name}\n"
+          f"I live in {self.city}\n"
+          f"I am {self.age} years old\n"
           f"Hobbies: {', '.join(self.hobbies)}.\n"
         )
 
 
-eu = Desenvolvedor(
+me = Developer(
     "Matheus",
     "Nova Friburgo - RJ",
     23,
-    ["Jogos", "Música", "Animes e séries", "Bares", "Futebol"]
+    ["Games", "Music", "Animes and series", "Pubs", "Soccer"]
 )
 
-print(eu)
+print(me)
 ```
 
 ----
