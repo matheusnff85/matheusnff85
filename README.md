@@ -119,11 +119,12 @@ print(me)
 
 ---- -->
 
-<div align="center">
+<!-- <div align="center">
 <img align="justify" alt="Spotify list" height="380px" src="https://spotify-recently-played-readme.vercel.app/api?user=jfownqzt6o2rsxyn3u1crp0fv&count=6"/>
 <img align="justify" alt="Spotify" height="380px" src="https://spotify-github-profile.vercel.app/api/view?uid=jfownqzt6o2rsxyn3u1crp0fv&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile"/>
 </div>
 
+-->
 ----
 
 <div align="center">
