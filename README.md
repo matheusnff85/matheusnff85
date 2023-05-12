@@ -21,7 +21,7 @@ me = Developer(
     "Matheus",
     "Nova Friburgo - RJ",
     23,
-    ["Games", "Music", "series", "Pubs", "Soccer"]
+    ["Games", "Music", "Series", "Soccer"]
 )
 
 print(me)
