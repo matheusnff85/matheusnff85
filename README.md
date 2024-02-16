@@ -11,8 +11,9 @@ Minhas tecnologias de maior dominância são Javascript, React, Node.js, Typescr
 
 Fora do meio profissional, costumo dar espaço aos jogos e a música, seguindo um padrão totalmente eclético.
 
-</p>
 > “Os limites só existem se você os deixar existir.” — Son Goku
+
+</p>
 
 ## ✉️ Contact me
 
