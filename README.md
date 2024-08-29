@@ -9,7 +9,7 @@ Durante minha jornada na área de desenvolvimento, tive o prazer de me formar na
 
 Minhas tecnologias de maior dominância são Javascript, React, Node.js, Typescript, e alguns frameworks que as utilizam como base, são alguns deles Express, Redux, Sequelize, e no quesito banco de dados, MySQL e MongoDB.
 
-Fora do meio profissional, costumo dar espaço aos jogos e a música, seguindo um padrão totalmente eclético.
+Fora do meio profissional, costumo dar espaço aos jogos e a música.
 
 > “Os limites só existem se você os deixar existir.” — Son Goku
 
