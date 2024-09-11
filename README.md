@@ -3,13 +3,17 @@
 ## 🙋 About me
 
 <p>
-Desenvolvedor Web Full Stack, majoritariamente criando projetos com Javascript, React, Node.js, desenvolvo aplicações web desde somente frontend ou backend até o full stack, com 2 anos de conhecimento busco a cada dia superar ainda mais barreiras e me profissionalizar cada vez mais.
+Desenvolvedor de Software com experiência em criação e manutenção de aplicações web full stack utilizando principalmente JavaScript, React, Node.js e TypeScript. Com 2 anos de vivência no desenvolvimento de soluções de software e experiência prática em liderança de projetos, com foco em sprints ágeis e entrega de resultados no prazo, estou sempre em busca de superar desafios técnicos e expandir meu conhecimento em novas tecnologias, com o objetivo de entregar produtos de alta qualidade e impacto.
 
-Durante minha jornada na área de desenvolvimento, tive o prazer de me formar na Turma 20 B do curso de desenvolvimento web full stack da Trybe em fevereiro de 2023, onde além de aprimorar totalmente minhas habilidades de programação e desenvolvimento para os mais elevados padrões partindo do zero, tive a oportunidade de evoluir também habilidades interpessoais que não imaginava possuir antes.
+Graduado em Desenvolvimento Web Full Stack pela Trybe (Turma 20 B - fevereiro de 2023), onde desenvolvi habilidades técnicas avançadas e também aperfeiçoei minhas soft skills, como trabalho em equipe, resolução de problemas e comunicação interpessoal.
 
-Minhas tecnologias de maior dominância são Javascript, React, Node.js, Typescript, e alguns frameworks que as utilizam como base, são alguns deles Express, Redux, Sequelize, e no quesito banco de dados, MySQL e MongoDB.
+Durante as minhas experiências, tive a oportunidade de desenvolver interfaces dinâmicas e responsivas com React.js, Next.js, TypeScript e Tailwind CSS. Desenvolvi backends robustos com Node.js, Express, Fastify e Sequelize para a criação de APIs escaláveis. Utilizei o Prisma como ORM para gerenciamento eficiente de bancos de dados, trabalhando com bancos de dados relacionais e não relacionais como MySQL, PostgreSQL e MongoDB. Validei esquemas com Zod para garantir maior segurança e confiabilidade nas APIs.
 
-Fora do meio profissional, costumo dar espaço aos jogos e a música.
+Integrei testes automatizados com Vitest, Jest, RTL e adotei a abordagem TDD (Test-Driven Development). Construí arquiteturas de software com foco em POO (Programação Orientada a Objetos) e design patterns. Tenho experiência em versionamento de código utilizando Git e GitHub, colaborando de forma ágil através de metodologias como Scrum e Kanban.
+
+Também possuo conhecimentos em computação em nuvem, com foco em AWS para deploy e gerenciamento de infraestrutura, e utilizo Docker para containerização e orquestração de ambientes de desenvolvimento.
+
+Busco constantemente o desenvolvimento pessoal e técnico, com o objetivo de impactar positivamente equipes e empresas através de soluções inovadoras. Dito isso, atualmente tenho aperfeiçoado conhecimentos em Java, Python e Rust.
 
 > “Os limites só existem se você os deixar existir.” — Son Goku
 
