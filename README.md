@@ -7,7 +7,7 @@
 
 Desenvolvedor com 2 anos de experiência em aplicações web full stack, focado em JavaScript, TypeScript, React, Node.js e boas práticas de arquitetura. Possuo vivência com liderança técnica, metodologias ágeis e entrega orientada a resultados.
 
-Graduado em Desenvolvimento Web Full Stack pela Trybe, busco sempre evoluir minhas habilidades técnicas e interpessoais. Atualmente aprimorando conhecimentos em Java, Python e Rust.
+Graduado em Desenvolvimento Web Full Stack pela Trybe, busco sempre evoluir minhas habilidades técnicas e interpessoais. Atualmente aprimorando conhecimentos em Java e C.
 
 ---
 
